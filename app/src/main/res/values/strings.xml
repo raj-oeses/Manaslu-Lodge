@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mahol</string>
+    <string-array name="roomnumber">
+        <item>Room Number</item>
+        <item>101</item>
+        <item>201</item>
+        <item>202</item>
+        <item>203</item>
+        <item>204</item>
+        <item>205</item>
+        <item>206</item>
+        <item>207</item>
+        <item>301</item>
+        <item>302</item>
+
+    </string-array>
+</resources>
+
